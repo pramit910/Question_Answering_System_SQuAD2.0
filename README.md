@@ -131,6 +131,7 @@ The goal of this project was to develop an extractive question answering system 
 
 Overall, our project looked into the importance of using transformer-based models for a specific downstream NLP task like Question Answering. We look at the importance of selecting the appropriate model based on model performance, and available resources. These Language models have the power to alter the ways we interact with the available textual data in the form of Question Answering to conversational Chatbots.
 
+------------
 ## REFERENCES
 
 1. Rajpurkar, Pranav, Robin Jia, and Percy Liang. "Know what you don't know: unanswerable questions for SQuAD." arXiv preprint arXiv:1806.03822 (2018).
